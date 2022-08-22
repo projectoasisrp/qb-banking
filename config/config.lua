@@ -40,9 +40,9 @@ Config.Zones = {
         minZ = 104.49, maxZ = 108.49
     },
     [8] = {
-        position = vector3(-111.98, 6470.56, 31.63),
-        length = 6.6, width = 2.0, heading = 45,
-        minZ = 29.43, maxZ = 33.43
+        position = vector3(-110.97, 6468.06, 31.63),
+        length = 15, width = 5, heading = 314.7,
+        minZ = 29, maxZ = 34
     }
 }
 
@@ -67,6 +67,6 @@ Config.BankLocations = {
     vector3(-1213.0, -330.39, 37.79),
     vector3(-2962.71, 483.0, 15.7),
     vector3(1175.07, 2706.41, 38.09),
-    vector3(246.64, 223.20, 106.29),
-    vector3(-113.22, 6470.03, 31.63)
+    vector3(257.39, 228.07, 106.28),
+    vector3(-110.72, 6469.85, 31.63)
 }
